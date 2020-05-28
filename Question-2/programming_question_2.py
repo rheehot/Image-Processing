@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1l9fSCC18jUw_BdZCGRkJ69rwkM-zkP_l
 """
 
-# Question 1
+# Question 2
 
 # **Note**: While entering the input. For example if the resolution of an image is **1600x1000**, then it means the **width** is **1600** and the **height** is **1000**. 
 # Similarly in the above program the **rows** would be **1000** and the **columns** would be **1600**
