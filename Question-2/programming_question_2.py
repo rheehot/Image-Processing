@@ -177,7 +177,7 @@ def resampling(img, N, M, x, y):
 
 def resizeImage(img, imgNew, N, M, N1, M1):
     
-    K = 2.0
+    K = 2.0   # Choosing the K and D values by trial and error method.
     d = 0.9
     x = 0.0    
     y = 0.0
